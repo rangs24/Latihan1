@@ -2,3 +2,4 @@
 
 ## Pembelajaran Version Control System
 ## menggunakan git init
+# latihan 1
