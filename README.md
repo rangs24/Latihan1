@@ -28,7 +28,3 @@
 - Lalu masukan Username dan Password dari akun github anda
 
 SELESAI
-# latihan 1
-# latihan 1
-# latihan 1
-# latihan 1
